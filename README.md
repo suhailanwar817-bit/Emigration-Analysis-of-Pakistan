@@ -1,4 +1,4 @@
-# Pakistan District-Wise Emigration Analysis (2014–2026)
+# Emigration-Analysis-of-Pakistan (2014–2026)
 
 An end-to-end data analytics project on **registered overseas emigration from 154 Pakistani districts**, using data published by the **Bureau of Emigration & Overseas Employment (BEOE), Pakistan**. The project covers data cleaning, exploratory analysis, statistical analysis, SQL querying and an interactive Power BI dashboard.
 
